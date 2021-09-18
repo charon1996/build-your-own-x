@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T11:14:24.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.2.9" etag="sVMfXkkxPiKCeceLI55b" type="github"><diagram id="r9lxp9v_RjxBlNb-Q0yl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-18T11:34:02.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Lkbt4o_x_gJE5-VH1X5r" version="15.2.9" type="github">
+  <diagram id="r9lxp9v_RjxBlNb-Q0yl" name="Page-1">
+    <mxGraphModel dx="1550" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qj99QxTUPlvaQ8loWfur-8" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=23;verticalAlign=top;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="154" y="150" width="520" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj99QxTUPlvaQ8loWfur-9" value="订阅" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=23;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;labelBackgroundColor=none;fontColor=#EA6B66;strokeColor=#F19C99;" edge="1" parent="1" source="Qj99QxTUPlvaQ8loWfur-2" target="Qj99QxTUPlvaQ8loWfur-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="380" />
+              <mxPoint x="270" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qj99QxTUPlvaQ8loWfur-2" value="事件处理器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj99QxTUPlvaQ8loWfur-1" value="事件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj99QxTUPlvaQ8loWfur-5" value="事件响应者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="480" y="210" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qj99QxTUPlvaQ8loWfur-6" value="事件拥有者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
